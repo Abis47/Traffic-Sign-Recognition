@@ -7,5 +7,10 @@
 ## Information about this project
 - In this project, we will build a deep neural network model that can classify traffic signs present in the image into different categories.To classify the images into their respective categories, we will build a CNN model (Convolutional Neural Network). CNN is best for image classification purposes. With this model, we are able to read and understand traffic signs which are a very important task for all autonomous vehicles. 
 
-**Link for Downloading dataset:**
+## Graphical User Interface (GUI)
+- Also I made the GUI using Tkinter for our traffic signs classifier.
+
+- All codes I uploaded in this repository and link for downloading dataset also provided below.
+
+**Link for Downloading Dataset:**
 https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
